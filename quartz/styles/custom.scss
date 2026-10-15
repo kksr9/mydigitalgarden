@@ -5,3 +5,13 @@
   font-family: "Dancing Script", cursive;
   font-size: 2rem;
 }
+
+.profile-pic {
+  float: right;
+  margin: -5em 0 1em 1em;
+}
+.profile-pic img {
+  width: 200px;
+  height: auto;
+  display: block;
+}
